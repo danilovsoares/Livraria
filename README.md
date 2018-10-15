@@ -28,7 +28,9 @@ On file located at `src\Livraria.WebApp\appsettings.json`, change connection str
 On the root path, run the following commands:
 
 ```
-dotnet restore && dotnet run dev-certs https --trust -p src\Livraria.WebApi
+1 - dotnet restore
+2 - dotnet dev-certs https --trust
+3 - dotnet run dev-certs https --trust -p src\Livraria.WebApi
 ```
 
 API will run at https://localhost:44344/
