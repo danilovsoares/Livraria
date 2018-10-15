@@ -32,7 +32,7 @@ On the root path, run the following commands:
 2 - dotnet run -p src\Livraria.WebApi
 ```
 
-API will run at https://localhost:44344/
+API will run at http://localhost:44344/
 
 ### Frontend
 
